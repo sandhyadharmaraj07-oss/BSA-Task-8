@@ -2,6 +2,7 @@
 https://public.tableau.com/app/profile/sandhya.dharmaraj/viz/E-Commerce_Business_Performance_TreeMap/BusinessCategoryPerformanceDashboard
 
 Five business insights based on the dashboard.
+
 Technology contributes significantly to overall sales compared with other categories.
 Some sub-categories generate much higher sales than others.
 Sales performance varies across different periods.
